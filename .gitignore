@@ -65,3 +65,4 @@ memory/notification_tracker.json
 # Outreach drafts and personal communications
 scripts/utilities/*_outreach*.md
 scripts/utilities/*_drafts*.md
+.local/
